@@ -2,7 +2,7 @@
 
 // Files and Directories  
 
-  >What I practiced:  
+## What I practiced:  
   Navigating the RHEL file system and creating, copying, moving, reading and searching files.
 
   >Why I practiced it:  
