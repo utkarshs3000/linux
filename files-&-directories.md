@@ -19,3 +19,7 @@
 
 &emsp;Why this matters for a SOC analyst:  
 &emsp;These commands can be used when investigating suspicious files, configurations and logs.
+
+<img width="1920" height="1080" alt="Screenshot 2026-08-29 001416" src="https://github.com/user-attachments/assets/3008dcde-2240-403e-8c07-983450798edc" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-29 001408" src="https://github.com/user-attachments/assets/1fea498e-b3dd-42bb-af62-410e4f06e257" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-29 001237" src="https://github.com/user-attachments/assets/238a37af-a0cf-4150-b411-e17cc121cbff" />
