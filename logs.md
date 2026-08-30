@@ -22,5 +22,5 @@
  &emsp;Why this matters for a SOC analyst:  
  &emsp;These logs can help detect suspicious logins, repeated password failures and unauthorized access attempts.
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-30 164939" src="https://github.com/user-attachments/assets/4f1a42fa-5267-4c4d-ae4d-38c41b2ac641" />
 <img width="1920" height="1080" alt="Screenshot 2026-08-30 164530" src="https://github.com/user-attachments/assets/1b0532ee-0233-493c-890d-077b62626761" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-30 164939" src="https://github.com/user-attachments/assets/4f1a42fa-5267-4c4d-ae4d-38c41b2ac641" />
